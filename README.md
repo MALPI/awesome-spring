@@ -8,8 +8,7 @@ The list is inspired by the [awesome-java](https://github.com/akullpp/awesome-ja
 - [People](#People)
 - [Software](#Software)
 - [Spring](#Spring)
-- [Spring Boot](#Spring Boot)
-    - Actuator(#Actuator)
+- [Spring Boot](#Spring-Boot)
 
 ## People
 
@@ -21,7 +20,7 @@ The list is inspired by the [awesome-java](https://github.com/akullpp/awesome-ja
 
 ## [Spring](http://projects.spring.io/spring-framework/)
 
-## [Spring Boot](https://projects.spring.io/spring-boot/)
+## [Spring-Boot](https://projects.spring.io/spring-boot/)
 
 *Takes an opinionated view of building production-ready Spring applications.*
 

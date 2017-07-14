@@ -5,10 +5,19 @@ The list is inspired by the [awesome-java](https://github.com/akullpp/awesome-ja
 
 # Table of contents
 
+- [People](#People)
+- [Software](#Software)
 - [Spring](#Spring)
 - [Spring Boot](#Spring Boot)
-    - Actuator (#Actuator)
-- [People](#People)    
+    - Actuator(#Actuator)
+
+## People
+
+* [Oliver Gierke](http://olivergierke.de/)
+
+## Software
+
+* [Spring Source Tool Suite](https://spring.io/tools/sts/all) - IDE which supports developing Spring Applications
 
 ## [Spring](http://projects.spring.io/spring-framework/)
 
@@ -16,10 +25,4 @@ The list is inspired by the [awesome-java](https://github.com/akullpp/awesome-ja
 
 *Takes an opinionated view of building production-ready Spring applications.*
 
-* [Failsafe-Actuator](https://github.com/zalando-incubator/failsafe-actuator) - Out of the box monitoring of Failsafe Circuit Breaker in Spring-Boot environment. 
-
-## People
-
-* [Oliver Gierke](http://olivergierke.de/)
-
-
+* [Failsafe-Actuator](https://github.com/zalando-incubator/failsafe-actuator) - Out of the box monitoring of Failsafe Circuit Breaker in Spring-Boot environment.

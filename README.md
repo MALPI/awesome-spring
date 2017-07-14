@@ -12,7 +12,7 @@ The list is inspired by the [awesome-java](https://github.com/akullpp/awesome-ja
 
 ## People
 
-* [Oliver Gierke](http://olivergierke.de/)
+* [Oliver Gierke](http://olivergierke.de/) - Spring Source Engineer
 
 ## Software
 

@@ -5,10 +5,10 @@ The list is inspired by the [awesome-java](https://github.com/akullpp/awesome-ja
 
 # Table of contents
 
-- [Spring] (#Spring)
-- [Spring Boot] (#Spring Boot)
+- [Spring](#Spring)
+- [Spring Boot](#Spring Boot)
     - Actuator (#Actuator)
-- [People] (#People)    
+- [People](#People)    
 
 ## [Spring](http://projects.spring.io/spring-framework/)
 
@@ -20,6 +20,6 @@ The list is inspired by the [awesome-java](https://github.com/akullpp/awesome-ja
 
 ## People
 
-* [Oliver Gierke] (http://olivergierke.de/)
+* [Oliver Gierke](http://olivergierke.de/)
 
 

@@ -12,7 +12,7 @@ The list is inspired by the [awesome-java](https://github.com/akullpp/awesome-ja
 
 ## People
 
-* [Oliver Gierke](http://olivergierke.de/) - Spring Source Engineer
+* [The Spring Team](https://spring.io/team) - Spring Source Engineers
 
 ## Software
 
@@ -25,3 +25,4 @@ The list is inspired by the [awesome-java](https://github.com/akullpp/awesome-ja
 *Takes an opinionated view of building production-ready Spring applications.*
 
 * [Failsafe-Actuator](https://github.com/zalando-incubator/failsafe-actuator) - Out of the box monitoring of Failsafe Circuit Breaker in Spring-Boot environment.
+* [Spring Cloud Config AWS KMS](https://github.com/zalando/spring-cloud-config-aws-kms) - Provides KMS Support for Spring Cloud Config.
